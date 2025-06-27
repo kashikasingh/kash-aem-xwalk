@@ -2,7 +2,8 @@
   "mappings": [
     "/content/kash-aem-xwalk/:/",
     "/content/kash-aem-xwalk/configuration:/.helix/config.json",
-    "/content/kash-aem-xwalk/metadata:/metadata.json"
+    "/content/kash-aem-xwalk/metadata:/metadata.json",
+    "/content/kash-aem-xwalk/redirects:/redirects.json"
   ],
   "includes": [
     "/content/kash-aem-xwalk/"
